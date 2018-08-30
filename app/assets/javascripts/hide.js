@@ -6,4 +6,5 @@ let x = document.getElementById('hide_this')
 }
 
 $(document).ready(function() {
+  hideWhenClicked();
 });
