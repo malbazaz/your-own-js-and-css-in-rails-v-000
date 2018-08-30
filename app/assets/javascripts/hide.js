@@ -3,4 +3,4 @@ function hideWhenClicked(){
 // bind hide_this
 let x = document.getElementById('hide_this')
     x.display = "none";
-}.bind(this)
+}
