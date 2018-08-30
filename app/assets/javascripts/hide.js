@@ -4,7 +4,7 @@ function hideWhenClicked(){
 
 const x = document.getElementById('hide_this')
 x.addEventListener("click",function(){
-  x.innerHTML.display = "none";
+  x.display = "none";
 })
 
 }
